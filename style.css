@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+  }
+  
+  #quote-box {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #eeeeee;
+  }
+  
+  #quote {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  #author {
+    font-size: 12px;
+    color: #999999;
+  }
+  
+  #color-buttons {
+    margin: 20px 0;
+  }
+  
+  #color-buttons button {
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    color: #333333;
+    cursor: pointer;
+  }
+  
+  #color-buttons button:hover {
+    background-color: #eeeeee;
+  }
+  
